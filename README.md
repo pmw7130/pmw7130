@@ -1,14 +1,14 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=박명우%20)
+![Waving](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=박명우%20)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232CC2B3&title_bg=%23191717&icon=bilibili.svg&icon_color=%23D3C1C1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+### 🙇 안녕하세요, Data Engineer로 성장해나가고 있는 박명우입니다!
 
 <!-- Body -->
 
-### 🦾 Skills
+### 📝 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -20,6 +20,9 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-ffffff?style=for-the-badge&logo=oracle&logoColor=F80000)<br>
+![Pandas](https://img.shields.io/badge/pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=150458)
+
 
 **🛠️ Infra and Tools**
 
@@ -36,6 +39,6 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmw7130)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/______)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pmw7130)](https://solved.ac/profile/pmw7130)
