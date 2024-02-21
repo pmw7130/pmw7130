@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=박명우%20)
+![Waving](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=안녕하세요 성장하는 개발자 박명우입니다.%20)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232CC2B3&title_bg=%23191717&icon=bilibili.svg&icon_color=%23D3C1C1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
